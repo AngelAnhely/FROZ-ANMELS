@@ -1,0 +1,10 @@
+C:\Users\ANGEL\source\repos\FROZ\FROZ\bin\Debug\FROZ.exe.config
+C:\Users\ANGEL\source\repos\FROZ\FROZ\bin\Debug\FROZ.exe
+C:\Users\ANGEL\source\repos\FROZ\FROZ\bin\Debug\FROZ.pdb
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.csprojAssemblyReference.cache
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.Form1.resources
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.Properties.Resources.resources
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.csproj.GenerateResource.cache
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.exe
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.pdb
+C:\Users\ANGEL\source\repos\FROZ\FROZ\obj\Debug\FROZ.Form2.resources
